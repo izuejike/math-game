@@ -1,0 +1,49 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)), url(game.jpg) no-repeat; 
+	background-size: contain;
+	height: 100vh;
+	background-attachment: fixed;
+}
+h1{
+	color: white
+}
+h2{
+	color: white
+}
+span{
+	color: white;
+	font-size: 50px;
+	margin-top: 20px
+}
+div{
+	margin-top: 10px
+}
+fieldset{
+	margin-top: 30px
+}
+input{
+width: 20%;
+padding: 15px;
+border: 1px solid white;
+background:transparent;
+color: white;
+margin-bottom: 20px
+}
+button{
+background-color: grey;
+color: white;
+padding: 10px 20px;
+border: 0px 0px white;
+cursor: pointer;
+border-radius: 50px;
+transition: 0.8s all;
+}
+.footer{
+	left: 0;
+	bottom: 100;
+	text-align: center;
+	color: white;
+	margin-top: 300px
+}
